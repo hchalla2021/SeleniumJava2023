@@ -15,7 +15,7 @@ public class HandleAlerts {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(60));
         driver.findElement(By.xpath("//*[@id=\"confirmButton\"]")).click();
-        //Alert a = driver.switchTo().alert();//
+        //Alert a = driver.switchTo().alert();//123
        // a.accept();// Click on OK Button
         //a.dismiss();// click on Cancel buttton
         //a.sendKeys("Hello");// enter data in alert text box
