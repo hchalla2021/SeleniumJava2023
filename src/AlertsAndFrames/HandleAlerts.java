@@ -19,7 +19,7 @@ public class HandleAlerts {
        // a.accept();// Click on OK Button
         //a.dismiss();// click on Cancel buttton
         //a.sendKeys("Hello");// enter data in alert text box
-        //System.out.println(a.getText());// get text on alert window
+        //System.out.println(a.getText());// get text on alert window, this is 
 
     }
 }
